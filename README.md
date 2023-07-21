@@ -25,7 +25,6 @@
 <div>
   <br />
   <br />
-  <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=odysseas95&show_icons=true&locale=en&layout=compact&theme=github_dark_dimmed" alt="odysseas95" />
 </div>
 
