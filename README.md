@@ -1,6 +1,5 @@
-![Header](./your-header-image-name.png)
+![Header](./github-header-image.png)
 
-<h1 align="center">Hi 👋, I'm Odysseas</h1>
 <h3 align="center">A passionate backend developer from Greece!</h3>
 
 - 🔭 I’m currently working on **multiple web applications**
