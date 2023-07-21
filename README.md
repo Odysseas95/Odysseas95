@@ -7,6 +7,8 @@
 <div>
 <img  align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
 
+---
+
 ### 🧰 Languages and Tools
 <img align="left" alt="csharp" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 <img align="left" alt="dotnet" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
@@ -25,6 +27,8 @@
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=odysseas95&show_icons=true&locale=en&layout=compact&theme=github_dark_dimmed" alt="odysseas95" />
 </div>
+
+---
 
 ### Where you can find me
 <p align="left">
