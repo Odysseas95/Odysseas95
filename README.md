@@ -33,6 +33,8 @@
 <p align="left">
 <a href="https://linkedin.com/in/odysseas-athanasiadis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="odysseas-athanasiadis" height="30" width="40" /></a>
 <a href="https://fb.com/odysseasathanasiadis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="odysseasathanasiadis" height="30" width="40" /></a>
+<a href="https://twitter.com/mithrandir95" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mithrandir95" height="30" width="40" /></a>
+<a href="https://instagram.com/ody_athan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ody_athan" height="30" width="40" /></a>
 </p>
 
 
